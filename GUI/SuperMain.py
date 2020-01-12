@@ -1,0 +1,6 @@
+import MainPage
+
+
+
+
+MainPage.MAINCALL()	
